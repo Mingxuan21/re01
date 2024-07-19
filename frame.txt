@@ -1,2 +1,1 @@
 UPDATE OBSTACLE *************
-[ INFO] [1721316569.129089098]: Auto autopilot state: 1, Speed from chassis: 8.718750
