@@ -1,6 +1,2 @@
 UPDATE OBSTACLE *************
 [ INFO] [1721316569.129089098]: Auto autopilot state: 1, Speed from chassis: 8.718750
-[ INFO] [1721316569.129105877]: g-location: x=455974.855991, y=4403772.605460,theta=0.693424
-[ INFO] [1721316569.133330133]: filter junction type: 0, junc_s_low: 9999.000000, junc_s_high: -9999.000000
-[ INFO] [1721316569.133352522]: junction type 0
-
